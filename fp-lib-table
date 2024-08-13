@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Xbox-Charge")(type "KiCad")(uri "${KIPRJMOD}/Xbox-Charge.pretty")(options "")(descr ""))
+)

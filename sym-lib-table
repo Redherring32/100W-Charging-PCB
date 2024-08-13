@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BQ25713")(type "KiCad")(uri "${KIPRJMOD}/BQ25713.kicad_sym")(options "")(descr ""))
+  (lib (name "Xbox-Charge")(type "KiCad")(uri "${KIPRJMOD}/Xbox-Charge.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS25750D")(type "KiCad")(uri "${KIPRJMOD}/TPS25750D.kicad_sym")(options "")(descr ""))
+)
